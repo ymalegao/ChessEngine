@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Darwin-c++"
+	BuildStamp="20240312-1901-Experimental"
+	Name="eduroam-169-233-238-178.ucsc.edu"
+	Generator="ctest-3.28.3"
+	CompilerName="/Library/Developer/CommandLineTools/usr/bin/c++"
+	CompilerVersion="14.0.0.14000029"
+	OSName="macOS"
+	Hostname="rachelcarlson-100-64-75-95.resnet.ucsc.edu"
+	OSRelease="12.6"
+	OSVersion="21G115"
+	OSPlatform="arm64"
+	Is64Bits="1"
+	VendorString="IBM"
+	VendorID="IBM"
+	FamilyID="16777228"
+	ModelID="2"
+	ProcessorCacheSize="131072"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="20480"
+	TotalPhysicalMemory="16384"
+	LogicalProcessorsPerPhysical="8"
+	ProcessorClockFrequency="0"
+	>
+	<Testing>
+		<StartDateTime>Mar 12 12:01 PDT</StartDateTime>
+		<StartTestTime>1710270103</StartTestTime>
+		<TestList/>
+		<EndDateTime>Mar 12 12:01 PDT</EndDateTime>
+		<EndTestTime>1710270103</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

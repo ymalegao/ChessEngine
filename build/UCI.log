@@ -1,0 +1,27 @@
+RUNNING NEW GAME
+
+
+a1
+a2
+RUNNING NEW GAME
+go
+AI IS WHITE
+bestmove f2f3
+go
+AI IS WHITE
+bestmove b8c6
+RUNNING NEW GAME
+uci
+readyok
+position startpos
+startpos :rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR
+go
+AI IS WHITE
+bestmove b8c6
+go
+AI IS WHITE
+bestmove g8f6
+RUNNING NEW GAME
+/Users/yashmalegaonkar/Documents/CMPM123/chess2/build/chess
+/Users/yashmalegaonkar/Documents/CMPM123/chess2/build/chess
+/Users/yashmalegaonkar/Documents/CMPM123/chess2/build/chess
